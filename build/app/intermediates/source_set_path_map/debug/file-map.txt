@@ -18,10 +18,10 @@ com.example.todo_app-core-1.13.1-16 /Users/macbook/.gradle/caches/transforms-3/c
 com.example.todo_app-lifecycle-runtime-2.7.0-17 /Users/macbook/.gradle/caches/transforms-3/c8996eb6ce8efabee1883fe1486006c9/transformed/lifecycle-runtime-2.7.0/res
 com.example.todo_app-jetified-lifecycle-viewmodel-savedstate-2.7.0-18 /Users/macbook/.gradle/caches/transforms-3/ca2eed4266fd24517e583e6618aa3924/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
 com.example.todo_app-jetified-tracing-1.2.0-19 /Users/macbook/.gradle/caches/transforms-3/fee79d0d8ef3af5dbc14ef6d22d028cf/transformed/jetified-tracing-1.2.0/res
-com.example.todo_app-debug-20 /Users/macbook/todo_app/android/app/src/debug/res
-com.example.todo_app-main-21 /Users/macbook/todo_app/android/app/src/main/res
-com.example.todo_app-pngs-22 /Users/macbook/todo_app/build/app/generated/res/pngs/debug
-com.example.todo_app-resValues-23 /Users/macbook/todo_app/build/app/generated/res/resValues/debug
-com.example.todo_app-packageDebugResources-24 /Users/macbook/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.todo_app-packageDebugResources-25 /Users/macbook/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.todo_app-merged_res-26 /Users/macbook/todo_app/build/app/intermediates/merged_res/debug
+com.example.todo_app-debug-20 /Users/macbook/Documents/GitHub/todo_app/android/app/src/debug/res
+com.example.todo_app-main-21 /Users/macbook/Documents/GitHub/todo_app/android/app/src/main/res
+com.example.todo_app-pngs-22 /Users/macbook/Documents/GitHub/todo_app/build/app/generated/res/pngs/debug
+com.example.todo_app-resValues-23 /Users/macbook/Documents/GitHub/todo_app/build/app/generated/res/resValues/debug
+com.example.todo_app-packageDebugResources-24 /Users/macbook/Documents/GitHub/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.todo_app-packageDebugResources-25 /Users/macbook/Documents/GitHub/todo_app/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.todo_app-merged_res-26 /Users/macbook/Documents/GitHub/todo_app/build/app/intermediates/merged_res/debug
